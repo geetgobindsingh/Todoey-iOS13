@@ -3,7 +3,6 @@
 //  Todoey
 //
 //  Created by Geet Gobind Singh on 25/04/23.
-//  Copyright © 2023 App Brewery. All rights reserved.
 //
 
 import UIKit
